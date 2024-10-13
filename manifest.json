@@ -1,0 +1,21 @@
+{
+    "name": "Shoot-Zombie",
+    "short_name": "Shoot-Zombie",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#3f449b",
+    "theme_color": "#f0f0f0",
+    "orientation": "landscape-primary",
+    "icons": [
+        {
+            "src": "/Icon/icon_192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/Icon/icon_512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
